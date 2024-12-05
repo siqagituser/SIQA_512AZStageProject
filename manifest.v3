@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <null name="startup_services"/>
@@ -9,17 +9,18 @@
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="PackX">1.0</value>
+    <value name="PackY">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">14</value>
+  <value name="build">15</value>
   <null name="description"/>
   <value name="created_date">05-12-2024 12:55:14 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-12-05T13:50:16.634191931Z</value>
+  <value name="lastUpdated">2024-12-05T13:50:45.81945738Z</value>
   <value name="wmProjectId">fl22280e77a8bf56cfd5dd78</value>
   <value name="creator">siqa auto</value>
 </Values>
